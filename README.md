@@ -1,6 +1,6 @@
 ## Hi, I'm Ahmed Salah 👋
 
-Technology and Data Governance Leader with 15+ years of experience in software development, testing, and data quality.
+IT Professional with 15+ years of experience delivering data quality, governance, and integration solutions across banking, insurance, and government. CDMP, PMP, and Informatica-certified specialist in designing enterprise data quality frameworks, implementing Informatica IDQ/CDQ, Axon, and EDC, and establishing data governance operating models aligned to DAMA-DMBOK and local regulations (NDMO/PDPL). Proven track record in reducing critical data defects, improving regulatory reporting quality, and driving data governance adoption with business stakeholders.
 
 I work across data quality, ETL testing, QA leadership, and enterprise software delivery. My background includes .NET application development, API and database testing, Informatica IDQ, SQL, data profiling, and data governance practices.
 
