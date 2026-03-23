@@ -32,6 +32,13 @@ I work across data quality, ETL testing, QA leadership, and enterprise software 
 ## Core skills
 `Data Quality` `Data Governance` `Informatica IDQ` `SQL` `ETL Testing` `API Testing` `Database Testing` `.NET` `C#` `Java` `Selenium` `Postman` `JIRA`
 
+## ☕ CONNECT WITH ME
+
+- LinkedIn: www.linkedin.com/in/ahmedsalahhosni
+- Email: Ahmed.salah.hosni@outlook.com
+- GitHub: https://github.com/Ahemdhosni/
+
+
 <!--
 **Ahemdhosni/Ahemdhosni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
