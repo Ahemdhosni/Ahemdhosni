@@ -30,7 +30,7 @@ I work across data quality, ETL testing, QA leadership, and enterprise software 
 - EC-Council Certified Secure Programmer
 
 ## Core skills
-`Data Quality` `Data Governance` `Informatica IDQ` `SQL` `ETL Testing` `API Testing` `Database Testing` `.NET` `C#` `Java` `Selenium` `Postman` `JIRA`
+`Data warehousing & BI` `Data Mlodeling` `Data Analysis` `Data Quality` `Data Governance` `Informatica IDQ` `SQL` `ETL Testing` `API Testing` `Database Testing` `.NET` `C#` `Java` `Selenium` `Postman` `JIRA`
 
 ## ☕ CONNECT WITH ME
 
