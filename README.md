@@ -22,8 +22,10 @@ I work across data quality, ETL testing, QA leadership, and enterprise software 
 - .NET Developer at B&F SW Services
 
 ## Certifications
-- CDMP
+- DAMA CDMP
+- DAMA Data Quality
 - Informatica Data Quality 10 Developer
+- Informatica cloud data quality CDQ
 - ICAgile Certified Professional
 - Data Engineering Foundation Certification – Informatica
 - ISTQB CTFL
